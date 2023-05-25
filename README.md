@@ -1,5 +1,6 @@
-# kanzulimanenglish
-Kanzulman english version 
+# kKanz-ul-Iman  english
+
+
 A simple attempt to scrape english verison of "This English version of the Holy Quran is the translation of Kanz-ul-Iman the Urdu version of Imam Ahl-e-Sunnat Maulana Shah Ahmed Raza Khan" 
 that has been scrapped from ahadees.com website.
 
