@@ -105,4 +105,15 @@ Well. Sorta.
 There is a new kid on the block, https://github.com/AlfaazPlus/QuranApp and i found that their way of holding the verses in a very particular manner like https://github.com/AlfaazPlus/QuranApp/blob/master/inventory/translations/en/en_irving.json so the next step is to redo the generation script so that the output can be in this format and submit a PR.
 
 
+Apparently, I had download 12 files less. 
 
+Then spent half an hour trying to find the missing ones.
+
+Simple.
+
+ls > list.txt
+
+then import the same in the calc_formula file in a new sheet, using csv import using a ```.``` as a delimiter. Then comparing that with the index sheet that was already present.
+12/6236= .19% error. Not bad for a day's worth of work.
+
+I typed these links manually and imported them.
