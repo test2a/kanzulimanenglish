@@ -126,3 +126,18 @@ I ran the generate json script but the output is all arranged by name. Not very 
 Did some reasearch and found   ``` ls -tr ``` gives me reasonable enough data. 
 
 Here too, the missing 12 files show up in the end but i cannot fix them in this manner using ```-tr``` because they were generated last so its still outside my scope of expertise.
+
+Tried to upload the raw text files but apparently github has a file upload limit.
+
+"  Yowza, that’s a lot of files. Try uploading fewer than 100 at a time.   "
+
+I would be unable to upload them this way, it will take 63 uploads, not possible. 
+
+So for now i will upload the JSONs itself.
+            
+          
+
+          
+
+
+            
