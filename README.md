@@ -61,9 +61,9 @@ I ended up with taking the above command, splitting it into its constituents,
 
 ```  xidel "https://www.ahadees.com/quran/ayat.php?surah= ```  ```$1``` ```&ayat=``` ```$2``` ```-e  "/html/body/table[2]/tbody/tr/td/table[2]/tbody/tr/td[2]/table[2]/tbody/tr[4]" >``` ```$1``` ```.``` ```$2``` ```.txt```
 
-Then it was easy. Just use "fill series" feature of Calc and first put $2, ie, verse of surah 1 which counted to 7, then i wrote the corresponding $1, then rince and repeat 114 times.
+Then it was easy. Just use "fill series" feature of Calc and first put $2, ie, verse of surah 1 which counted to 7, then i wrote the corresponding $1, then rince and repeat 114 times. 
 
-Now once that was done, it was a simple job of using ``` concat``` formulae to recompile the commands.
+Now once that was done, it was a simple job of using ``` concat``` formulae to recompile the commands. (Clac says the whole thing took around 6 hours)
 
 I took these lines and put them in a bash file.
 
