@@ -117,3 +117,12 @@ then import the same in the calc_formula file in a new sheet, using csv import u
 12/6236= .19% error. Not bad for a day's worth of work.
 
 I typed these links manually and imported them.
+
+
+Okay. new issue.
+
+I ran the generate json script but the output is all arranged by name. Not very useful. I suspect it wont matter much but still.
+
+Did some reasearch and found   ``` ls -tr ``` gives me reasonable enough data. 
+
+Here too, the missing 12 files show up in the end but i cannot fix them in this manner using ```-tr``` because they were generated last so its still outside my scope of expertise.
